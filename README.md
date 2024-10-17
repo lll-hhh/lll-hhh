@@ -4,8 +4,8 @@
 2.Web:https://github.com/qianguyihao/Web<br>
 3.pytorch：https://github.com/mrdbourke/pytorch-deep-learning<br>
           https://courses.d2l.ai/zh-v2/<br>
-4.markdown：https://blog.csdn.net/xdnxl/article/details
-##4.期末复习资料：https://github.com/FeijiangHan/CSU-CS-review-materials<br>
+4.markdown：https://blog.csdn.net/xdnxl/article/details<br>
+## 4.期末复习资料：https://github.com/FeijiangHan/CSU-CS-review-materials<br>
 <!---
 lll-hhh/lll-hhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
