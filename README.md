@@ -17,10 +17,12 @@
 ![image](https://github.com/user-attachments/assets/eea577d0-97b2-4507-8711-d4cad889a8e9)
 ![image](https://github.com/user-attachments/assets/d1cd2a0d-466e-46d5-919f-f6ceff75b1e9)
 ![image](https://github.com/user-attachments/assets/29df1fa6-f915-4de1-8317-9f7fce37d443)
-
-## 🎨社交媒体 | Social Media
+## 🚀 重点项目 | Featured Projects
+## 📊 GitHub 统计 | Statistics
+## 🌐社交媒体 | Social Media
 * 📫 邮箱: lhjsygdhr004815@gmail.com
 * 📱 QQ : 3212944715
+
 <!---
 lll-hhh/lll-hhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
