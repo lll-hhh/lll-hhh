@@ -23,7 +23,7 @@
 ![image](https://github.com/user-attachments/assets/29df1fa6-f915-4de1-8317-9f7fce37d443)
 ## 🚀 重点项目 | Featured Projects
 ## 📊 GitHub 统计 | Statistics
-![lll-hhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lll-hhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+[![lll-hhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lll-hhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?spm=5176.28103460.0.0.197c5d27iSDaHG&username=lll-hhh&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ## 🎁常用语言 | Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lll-hhh&layout=compact&theme=dark)
 ## 🌐社交媒体 | Social Media
