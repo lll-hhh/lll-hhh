@@ -7,7 +7,7 @@
 🎁 MBTI : 😈 ENTJ 😈<br>
 🎯 目标 : 保研TOP 上岸大厂 💪<br>
 ## 💻技术栈 | Tech Stack
-### 🤖 AI & 机器学习
+### <center>🤖 AI & 机器学习</center>
 ![image](https://github.com/user-attachments/assets/49980806-8f52-4acc-9880-68fd0e8ea7dd)
 ![image](https://github.com/user-attachments/assets/35500ac3-3b7e-45bc-8c2c-ab0a78031d77)
 ![image](https://github.com/user-attachments/assets/ac733573-3c4f-4efb-a4c2-99b25d4cc8a4)
