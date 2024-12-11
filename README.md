@@ -25,7 +25,7 @@
 ## 📊 GitHub 统计 | Statistics
 ![lll-hhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lll-hhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ## 🎁常用语言 | Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lll-hhh&layout=compact&theme=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lll-hhh&layout=compact&theme=dark)
 ## 🌐社交媒体 | Social Media
 * 📫 邮箱: lhjsygdhr004815@gmail.com
 * 📱 QQ : 3212944715
