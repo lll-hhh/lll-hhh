@@ -23,7 +23,9 @@
 ![image](https://github.com/user-attachments/assets/29df1fa6-f915-4de1-8317-9f7fce37d443)
 ## 🚀 重点项目 | Featured Projects
 ## 📊 GitHub 统计 | Statistics
-![lll-hhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lll-hhh&show_icons=true&theme=radical)
+![lll-hhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lll-hhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+## 🎁常用语言 | Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lll-hhh&layout=compact&theme=black)
 ## 🌐社交媒体 | Social Media
 * 📫 邮箱: lhjsygdhr004815@gmail.com
 * 📱 QQ : 3212944715
