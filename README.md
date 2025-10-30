@@ -2,7 +2,7 @@
 ### <center>C++ Back-End Developer & AI Developer</center>
 
 ## ✨关于我 | About Me
-🚀 计算机科学大二在读 <br>
+🚀 计算机科学大三在读 <br>
 ⭐ 中南大学计算机学院 <br>
 🎁 MBTI : 😈 ENTJ 😈<br>
 🎯 目标 : 保研TOP 上岸大厂 💪<br>
