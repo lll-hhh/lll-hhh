@@ -5,7 +5,7 @@
 🚀 计算机科学大三在读 <br>
 ⭐ 中南大学计算机学院 <br>
 🎁 MBTI : 😈 ENTJ 😈<br>
-🎯 目标 : 保研TOP 上岸大厂 💪<br>
+
 ## 💻技术栈 | Tech Stack
 ### <center>🤖 AI & 机器学习</center>
 ![image](https://github.com/user-attachments/assets/49980806-8f52-4acc-9880-68fd0e8ea7dd)
