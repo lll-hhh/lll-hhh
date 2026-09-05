@@ -1,8 +1,8 @@
 # <center> Hello World！✨This is lll-hhh✨ </center> 
 
 ## ✨关于我 | About Me
-🚀 计算机科学大三在读 <br>
-⭐ 中南大学计算机学院 <br>
+🚀 计算机科学与技术 <br>
+⭐ CSU -> THU <br>
 🎁 MBTI : 😈 ENTJ 😈<br>
 
 ## 💻技术栈 | Tech Stack
