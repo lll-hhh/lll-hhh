@@ -1,4 +1,4 @@
-# <center> Hello World！✨This is lll-hhh✨ </center> 
+# <center> ✨This is lll-hhh✨ </center> 
 
 🚀 计算机科学与技术 <br>
 ⭐ CSU -> THU <br>
